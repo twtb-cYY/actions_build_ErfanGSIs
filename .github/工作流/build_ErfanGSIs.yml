@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu18S_Pro/9.2.1.2/cn/20211215011733/32309967/update.zip
+  ROM_URL: https://www.flyme.com/firmwarelist-186.html#
   ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
